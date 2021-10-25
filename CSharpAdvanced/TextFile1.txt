@@ -1,0 +1,7 @@
+﻿LAMBDA EXPRESSIONS
+are anonymous methods
+with no access modifier
+no Name
+no statement 
+
+delegate is a type safe function pointer
